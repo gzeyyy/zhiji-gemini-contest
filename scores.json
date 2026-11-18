@@ -1,0 +1,95 @@
+{
+  "note": "正确率按题数计算，得分率按题目分值计算。既有封面统计与用户口述分开标注来源；本包不补造标准答案或各题对错。",
+  "rounds": [
+    {
+      "issue": 473,
+      "question_accuracy": {
+        "correct": 10,
+        "total": 11,
+        "percentage": 90.9,
+        "source": "用户本次提供的文案；未取得官方逐题答案独立核分"
+      },
+      "weighted_score": {
+        "points": 216,
+        "max_points": 237,
+        "percentage": 91.1,
+        "source": "本地既有封面统计说明；本次核对算术及题面总分，未独立读取官方榜单"
+      },
+      "rank": {
+        "value": 3,
+        "tied": true,
+        "source": "用户文案、附件封面与本地既有封面统计说明"
+      },
+      "participant_count": 218,
+      "comparison": {
+        "top10_mean_percentage": 89.4,
+        "top10_sample_count_excluding_self": 10,
+        "top20_mean_percentage": 72.8,
+        "top20_sample_count_excluding_self": 50,
+        "source": "scoring/cover-comparison-data.json"
+      },
+      "official_answer_key": null,
+      "per_question_correctness": null
+    },
+    {
+      "issue": 475,
+      "question_accuracy": {
+        "correct": 9,
+        "total": 12,
+        "percentage": 75,
+        "source": "用户本次提供的文案；未取得官方逐题答案独立核分"
+      },
+      "weighted_score": {
+        "points": 195,
+        "max_points": 258,
+        "percentage": 75.6,
+        "source": "本地既有封面统计说明；本次核对算术及题面总分，未独立读取官方榜单"
+      },
+      "rank": {
+        "value": 10,
+        "tied": true,
+        "source": "用户文案、附件封面与本地既有封面统计说明"
+      },
+      "participant_count": 226,
+      "comparison": {
+        "top10_mean_percentage": 81.7,
+        "top10_sample_count_excluding_self": 17,
+        "top20_mean_percentage": 69.6,
+        "top20_sample_count_excluding_self": 47,
+        "source": "scoring/cover-comparison-data.json"
+      },
+      "official_answer_key": null,
+      "per_question_correctness": null
+    },
+    {
+      "issue": 476,
+      "question_accuracy": {
+        "correct": 9,
+        "total": 9,
+        "percentage": 100,
+        "source": "用户本次提供的文案；未取得官方逐题答案独立核分"
+      },
+      "weighted_score": {
+        "points": 184,
+        "max_points": 184,
+        "percentage": 100,
+        "source": "本地既有封面统计说明；本次核对算术及题面总分，未独立读取官方榜单"
+      },
+      "rank": {
+        "value": 1,
+        "tied": true,
+        "source": "用户文案、附件封面与本地既有封面统计说明"
+      },
+      "participant_count": 226,
+      "comparison": {
+        "top10_mean_percentage": 100,
+        "top10_sample_count_excluding_self": 14,
+        "top20_mean_percentage": 94.2,
+        "top20_sample_count_excluding_self": 49,
+        "source": "scoring/cover-comparison-data.json"
+      },
+      "official_answer_key": null,
+      "per_question_correctness": null
+    }
+  ]
+}

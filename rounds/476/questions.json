@@ -1,0 +1,130 @@
+[
+  {
+    "question": 1,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主出身如何？（18岁以前的家庭条件）",
+    "options": {
+      "A": "温饱-父母工农阶层小商小贩或普通打工，整体家庭资产一百万以下或负债",
+      "B": "小康-父母有一方国央企体制编制正式〔此处右端局部被悬浮盘遮挡〕经商，资产超过百万",
+      "C": "富裕-父母有一方大型经商资产千万",
+      "E": "大富大贵-国企厅级以上干部，或资产过亿"
+    }
+  },
+  {
+    "question": 2,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 19,
+    "title": "命主当下学历？（包括后补学历）",
+    "options": {
+      "A": "小学及以下",
+      "B": "初高技",
+      "C": "大专",
+      "D": "本科",
+      "E": "研究生及以上"
+    }
+  },
+  {
+    "question": 3,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主职业属性？",
+    "options": {
+      "A": "稳定工作-国央企体制编制正式员工",
+      "B": "自由职业-经商/农民/私企外企民营企业/普通打工/学生/佛道僧/待业",
+      "C": "先稳定后自由"
+    }
+  },
+  {
+    "question": 4,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主当下职业取象",
+    "options": {
+      "A": "稳定-警察",
+      "B": "医教金融—银行",
+      "C": "自由经商-做自媒体",
+      "D": "自由打工-电视台实习无编制人员",
+      "E": "自由-算命先生"
+    }
+  },
+  {
+    "question": 5,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 29,
+    "title": "命主当下层次？",
+    "options": {
+      "A": "温饱-总资产不足百万或负债",
+      "B": "小康-资产超过百万或科级干部",
+      "C": "小富小贵-资产超过千万或处级干部",
+      "D": "大富大贵-资产超过1亿或厅级及以上干部"
+    }
+  },
+  {
+    "question": 6,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主当下婚姻状态？",
+    "options": {
+      "A": "未婚",
+      "B": "1婚",
+      "C": "重婚（离丧/多婚）"
+    }
+  },
+  {
+    "question": 7,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主当下有几个子女？（3岁以内夭折的不〔括号末尾被悬浮盘遮挡〕）",
+    "options": {
+      "A": "0个",
+      "B": "1个",
+      "C": "2个",
+      "D": "3个及以上"
+    }
+  },
+  {
+    "question": 8,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 21,
+    "title": "命主2026丙午年何事？",
+    "options": {
+      "A": "考上研究生",
+      "B": "进入电视台实习",
+      "C": "自媒体干得好赚钱二十多万",
+      "D": "算命被喝茶官非",
+      "E": "当警察",
+      "F": "考试进入银行工作"
+    }
+  },
+  {
+    "question": 9,
+    "type": "single",
+    "minSelections": 1,
+    "maxSelections": 1,
+    "points": 10,
+    "title": "命主兄弟姊妹有多少个？（包含命主）",
+    "options": {
+      "A": "1个-就是独生子",
+      "B": "2个-有个弟弟",
+      "C": "3个-有个哥哥，有个妹妹",
+      "D": "4个-父母生育能力强悍，生了四个，命主排行老三"
+    }
+  }
+]
